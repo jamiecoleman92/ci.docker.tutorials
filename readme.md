@@ -6,3 +6,4 @@ This project contains hands-on tutorials that walk through the use of WebSphere 
 2. [Adding an Application](app) looks at the different ways in which an application can be run on top of WebSphere Liberty running in a container
 3. [Working with Related Containers](compose) covers linking together related containers and using Docker Compose to simplify their management
 4. [Deploying to IBM Containers](bluemix) shows how to build and deploy to the IBM Containers service running on IBM Bluemix
+5. [Deploying Liberty with MQ](mq) shows how to build and deploy WebSphere Liberty with IBM MQ setup. Link to tutoral is yet to be added!
